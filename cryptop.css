@@ -1,0 +1,24 @@
+
+img {
+  max-height: 23px;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.yellow { background-color: yellow;}
+
+_.dai-filter {
+  background-color: yellow;
+  flex: 1;
+}
+
+_.dai-filter div {
+  _min-width: 200px;
+  margin-left:auto;
+  flex: 1 1 1
+}
+
+
+
